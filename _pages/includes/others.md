@@ -1,9 +1,4 @@
 
-# 📖 Educations
-- *2023.09 - Now*, PhD candidate, Beijing Jiaotong University, Beijing.
-- *2020.09 - 2023.06*, Master, Qingdao Univeristy, Qingdao.
-- *2016.09 - 2020.06*, Undergraduate, Taishan University, Taian.
-
 # 💬 Academic Service
 - **Session Chair** of The International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA)
 - **Reviewer** for IEEE Transactions on Network and Service Management (TNSM)
