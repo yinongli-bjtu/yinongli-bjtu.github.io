@@ -25,3 +25,6 @@ KaiXuan Kang, Ding Ding, HuaMao Xie, LiHong Zhao, **YiNong Li**, YiXuan Xie
 **Yinong Li**, Jianbo Li, Junjie Pang
 </div>
 </div>
+
+# 📑 Project
+- *2024.04 - 2026.03*, **Reinforcement Learning-based Task Scheduling in Cloud-Edge Collaboration**, Supported by the Fundamental Research Funds for the Central Universities
