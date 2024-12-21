@@ -21,7 +21,6 @@ KaiXuan Kang, Ding Ding, HuaMao Xie, LiHong Zhao, **YiNong Li**, YiXuan Xie
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ELECTRONICS</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [A graph attention mechanism-based multiagent reinforcement-learning method for task scheduling in edge computing](https://www.mdpi.com/2079-9292/11/9/1357) \\ 
 **Yinong Li**, Jianbo Li, Junjie Pang
 </div>
