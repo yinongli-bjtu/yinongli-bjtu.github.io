@@ -4,11 +4,11 @@
 - *2020.09 - 2023.06*, Master, Qingdao Univeristy, Qingdao.
 - *2016.09 - 2020.06*, Undergraduate, Taishan University, Taian.
 
-# 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
+# 💬 Academic Service
+- **Session Chair** of The International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA)
+- **Reviewer** for IEEE Transactions on Network and Service Management (TNSM)
+- **Reviewer** for Advanced Engineering Informatics (AEI)
+- **Reviewer** for Computer Vision and Image Understanding (CVIU)
 
 # 💻 Internships
 - *2023.06 - 2024.06*, Ministry of Agriculture and Rural Affairs of The People's Republic of China, Beijing.
