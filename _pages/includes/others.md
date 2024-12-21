@@ -7,4 +7,4 @@
 
 # 💻 Internships
 - *2023.06 - 2024.06*, Ministry of Agriculture and Rural Affairs of The People's Republic of China, Beijing.
-- *2021.06 - 2022.06*, [PerfLab](https://www.perfxlab.cn/), Qingdao.
+- *2021.06 - 2022.06*, [PerfXLab Company](https://www.perfxlab.cn/), Qingdao.
